@@ -1,5 +1,10 @@
 
-# 👋 Hey there, I'm Soham Patil  
+<p align="center">
+  <a href="https://github.com/soham-patil">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Soham+Patil;Web+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</p>
+
 **🎓 BCA Student · 💻 Web Developer · ⚙️ Tech Enthusiast**
 
 ---
