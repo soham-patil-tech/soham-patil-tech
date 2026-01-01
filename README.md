@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="PASTE_GIF_LINK_HERE" width="600" alt="Coding Animation"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/soham-patil">
