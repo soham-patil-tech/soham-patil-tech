@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/4huS1VNES" width="600" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
 <p align="center">
