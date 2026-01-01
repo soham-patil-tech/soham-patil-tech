@@ -30,12 +30,14 @@
 
 ---
 
-## 💡 About Me
+## 🙋‍♂️ About Me
 
-- 🌱 Currently exploring **Cloud Computing & Backend Systems**  
-- 🚀 Building personal and collaborative web projects  
-- 🎯 Focused on writing clean, readable, and scalable code  
-- 💬 Passionate about **innovation, automation, and web systems**
+- 🎓 BCA student at **Pimpri Chinchwad College of Engineering & Research (PCCOER)**  
+  under **Savitribai Phule Pune University (SPPU)**
+- 🌱 Currently exploring **Cloud Computing & Backend Development**
+- 🚀 Actively building **real-world web projects**
+- 🎯 Focused on **clean, readable, and scalable code**
+- 🤝 **Open to Internship Opportunities** and collaborative projects
 
 ---
 
