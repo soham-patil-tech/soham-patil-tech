@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https:https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhlbDEybHRncHltbWg1azZnbnFxdjI5YzZkdWU5dWIyenpnZjlvZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="600"/>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/soham-patil">
