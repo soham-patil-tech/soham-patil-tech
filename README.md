@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\patil\Downloads" width="600" alt="Coding Animation"/>
+  <img src="https://pin.it/4huS1VNES" width="600" alt="Coding Animation"/>
 </p>
 
 <p align="center">
