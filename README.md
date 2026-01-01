@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PASTE_GIF_LINK_HERE" width="600" alt="Coding Animation"/>
+  <img src="C:\Users\patil\Downloads" width="600" alt="Coding Animation"/>
 </p>
 
 <p align="center">
