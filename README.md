@@ -36,7 +36,7 @@
 
 - 🎓 BCA student at **Pimpri Chinchwad College of Engineering & Research (PCCOER)**  
   under **Savitribai Phule Pune University (SPPU)**
-- 🌱 Currently exploring **Cloud Computing & Backend Development**
+- 🌱 Currently exploring **Cloud Computing , Prompt Engineering & Backend Development**
 - 🚀 Actively building **real-world web projects**
 - 🎯 Focused on **clean, readable, and scalable code**
 - 🤝 **Open to Internship Opportunities** and collaborative projects
