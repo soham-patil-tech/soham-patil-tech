@@ -6,7 +6,7 @@
   </a>
 </p>
 
-**🎓 BCA Student · 💻 Web Developer · ⚙️ AI Enthusiast**
+**🎓 BCA Student · 💻 Web Developer · ⚙️ React Developer**
 
 ---
 
