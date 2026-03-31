@@ -39,7 +39,7 @@
 - 🌱 Currently exploring **Cloud Computing , Prompt Engineering & Backend Development**
 - 🚀 Actively building **real-world web projects**
 - 🎯 Focused on **clean, readable, and scalable code**
-- 🤝 **Open to Internship Opportunities** and collaborative projects
+- 🤝 **Open to Internship Opportunities**
 
 ---
 
