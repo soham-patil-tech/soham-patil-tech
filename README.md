@@ -1,7 +1,9 @@
 <p align="center">
-  <a href="https://github.com/soham-patil-tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Soham+Patil;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Real+World+Projects+🚀" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=2500&pause=800&color=0FF7FF&center=true&vCenter=true&width=900&lines=👋+Hey+there!+I+am+Soham+Patil;💻+Full+Stack+Developer;⚡+React+%7C+Next.js+%7C+Node.js;🚀+Let’s+Build+Something+Great!" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380" />
 </p>
 
 <p align="center">
