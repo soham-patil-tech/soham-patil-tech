@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+I+am+Soham+Patil;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Real+Projects+🚀" />
+  <a href="https://github.com/soham-patil">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Soham+Patil;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Real+World+Projects+🚀" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="120"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 <h3 align="center">🎓 BCA Student · 💻 Full Stack Developer · ⚙️ React / Next.js / Node.js</h3>
@@ -68,6 +70,12 @@
 - ☁️ Cloud & Backend Systems
 - 🤖 AI Tools & Prompt Engineering
 - 🧩 Real-world Problem Solving Projects
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soham-patil&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
