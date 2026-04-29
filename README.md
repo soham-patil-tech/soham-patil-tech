@@ -73,21 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soham-patil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=soham-patil&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham-patil&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 <h3 align="center">⭐ Dream. Develop. Deploy. Repeat.</h3>
 <h4 align="center">— Soham Patil</h4>
