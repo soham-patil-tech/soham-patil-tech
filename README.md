@@ -71,13 +71,6 @@
 - 🤖 AI Tools & Prompt Engineering
 - 🧩 Real-world Problem Solving Projects
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soham-patil&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <h3 align="center">⭐ Dream. Develop. Deploy. Repeat.</h3>
 <h4 align="center">— Soham Patil</h4>
