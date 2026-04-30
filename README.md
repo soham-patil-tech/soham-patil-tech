@@ -17,6 +17,9 @@
   <img src="https://github.com/soham-patil-tech/soham-patil-tech/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=soham-patil-tech&theme=tokyonight" />
+</p>
 
 ## 📫 Connect With Me
 
