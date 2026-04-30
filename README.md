@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Soham+Patil;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Real+World+Projects+🚀;Open+Source+Contributor+%F0%9F%94%A5" />
-</p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" width="700"/>
