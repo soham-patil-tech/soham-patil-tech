@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700"/>
 </p>
 
 <h3 align="center">🎓 BCA Student · 💻 Full Stack Developer · ⚙️ React / Next.js / Node.js</h3>
