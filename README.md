@@ -11,6 +11,12 @@
 <h3 align="center">🎓 BCA Student · 💻 Full Stack Developer · ⚙️ React / Next.js / Node.js</h3>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/soham-patil-tech/soham-patil-tech/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 ## 📫 Connect With Me
 
