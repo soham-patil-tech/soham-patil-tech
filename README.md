@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
+  <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" width="700"/>
 </p>
 
 <h3 align="center">🎓 BCA Student · 💻 Full Stack Developer · ⚙️ React / Next.js / Node.js</h3>
